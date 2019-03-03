@@ -1,0 +1,1 @@
+global.switch[0] = true;

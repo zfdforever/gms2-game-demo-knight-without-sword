@@ -1,0 +1,3 @@
+part_system_destroy(particle_system_bottom);
+part_type_destroy(particle_type_enemy_bullet1);
+part_type_destroy(particle_type_player_bullet1);

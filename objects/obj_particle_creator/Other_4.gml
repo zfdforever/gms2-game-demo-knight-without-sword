@@ -1,0 +1,1 @@
+particle_system_bottom = part_system_create_layer("particle_bottom",false);
