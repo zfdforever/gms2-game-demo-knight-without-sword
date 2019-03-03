@@ -11,5 +11,5 @@ And in this game ,you cannot jump :)
 因为这个游戏中所有的美术资源都是我自己手画的（手动斜眼）  
 Because all these art resource are draw by myself :)
 # Others
-如果你也对gms2感兴趣，我会很开心与你讨论gms2相关的问题，我的油箱是zzffdd2010&163.com(&换成@)
+如果你也对gms2感兴趣，我会很开心与你讨论gms2相关的问题，我的油箱是zzffdd2010&163.com(&换成@)  
 If you are interested in gms2, I'm very happy to disscus it with you, contact with me through zzffdd2010&163.com (replace & to @)
