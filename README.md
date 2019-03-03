@@ -15,4 +15,4 @@ For now, these are 3 levels in this demo,a simple teaching level, a normal level
 Because all these art resource are draw by myself :)
 # 其他 Others
 如果你也对gms2感兴趣，我会很开心与你讨论gms2相关的问题，我的油箱是zzffdd2010&163.com(&换成@)  
-If you are interested in gms2, I'm very happy to disscus it with you, contact with me through zzffdd2010&163.com (replace & to @)
+If you are interested in gms2, I'm very happy to disscus it with you, contact with me through zzffdd2010&163.com (replace & with @)
